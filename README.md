@@ -1,6 +1,8 @@
 # simple-http-proxy-socket-programming
 Networking Assignment, simple http proxy that blocks website if words are contained in url.
 
+made to run on linux
+
 COMPILE
 
 $g++ main.cpp -o main
